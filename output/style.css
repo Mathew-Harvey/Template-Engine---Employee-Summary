@@ -1,0 +1,32 @@
+
+body{
+
+    background-position : center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-family: 'Playfair Display', serif;
+    color: #133649;
+    font-weight: 900;
+    font-size: 72;
+}
+h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    color: #1E5C7E;
+}
+h3{
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    color: #5A93AB;
+}
+li{
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    color: #133649;
+}
+a{
+    color: #C65628;
+}
+
