@@ -31,12 +31,15 @@ const render = require("./lib/htmlRenderer");
 
 //Bringing in additional packages & Global Variable to hold employee objects:
 const util = require("util");               
+const { clear } = require("console");
 const writeFileAsync = util.promisify(fs.writeFile);  
 const employees = [];
 
 
 
 //Initalization- calls the first function
+clear()
+
 const init = () => { 
     console.log("Please build your team");
         promptManager();

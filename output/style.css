@@ -9,7 +9,20 @@ body{
     overflow: hidden;
 }
 
+#cog{
+    align-items: left;
+
+}
+
 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+#title{
+     z-index: 200;
+    text-align: center;
+    align-items: center;
     display: block;
     margin-left: auto;
     margin-right: auto
@@ -19,6 +32,7 @@ h1{
     color: #133649;
     font-weight: 900;
     font-size: 72;
+   
 }
 h2{
     font-family: 'Roboto', sans-serif;
