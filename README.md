@@ -13,9 +13,11 @@
 - [How to Contribute](#How-to-Contribute-)
 - [Authors](#Authors-)
 - [Questions](#Questions-)
-- [Application ScreenShots](#Application-ScreenShots-)
+
 ## Demo 💻
 ![Demo Video](/assets/teamgeneration.gif)
+## Discussion Video
+Link to video of me discussing the code: https://youtu.be/D8Lrq6-DDMk
 ## Description 🧐
 Using test driven development (TDD), I made an application that allows the user to auto generate a webite that displays their team's contact details. The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns. This assignment must also pass all unit tests. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.
 ## Motivation 🚀
@@ -37,5 +39,4 @@ Please feel free to contact me with any questions you may have:
 ### GitHub: https://github.com/mathew-harvey
 
 ### Email: mathewharvey@gmail.com
-## Application ScreenShots 📸
-![Screen Shot](/assets/)
+
