@@ -158,7 +158,9 @@ const promptEmployee = () => {
     });
 }
 
-
+if (!fs.existsSync(OUTPUT_DIR)){
+    fs.mkdirSync(OUTPUT_DIR);
+}
 //Renders HTML & writes to new team.html file
 async function writeTeam(){                                        
     const renderEmployees = render(employees); 
